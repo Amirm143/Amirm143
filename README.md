@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&duration=2500&lines=Hello+World!+👋;+I'm+Ayon+Das;+An+Open+Source+Contributor+🌟;+An+Android+Developer+📱;Loves+To+Build+Projects+🛠">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&duration=2500&lines=Hello+World!+👋;+I'm+Amir+Mahboob;+An+Open+Source+Contributor+🌟;+An+Android+Developer+📱;Loves+To+Build+Projects+🛠">
 </p>
 
 
@@ -20,26 +20,21 @@
 
 
 ## About Me :
-- 👨🏻‍🎓 I’m currently pursuing B.Tech in Computer Science Engineering 💻 in VIT Bhopal.
+- 👨🏻‍🎓 I’m currently pursuing B.Tech in Computer Science Engineering Specialization in Artificial Intelligence and machine learnig 💻 in VIT Bhopal.
 - 🌱 I’m currently learning Android Developing
 - 🤝 I’m looking to collaborate with other developers and build cool projects
 - 🎯 Goals: Learning Android Development.
-- 📫 How to reach me <u>**ayon.das2021@vitbhopal.ac.in**</u>
+- 📫 How to reach me <u>**amir.2021@vitbhopal.ac.in**</u>
 
 
 ## Connect with me :
 
-<a href="mailto:ayon.das2021@vitbhopal.ac.in">
-  <img align="left" alt="Ayon Das - Google Mail" width="40px" src="https://api.iconify.design/logos:google-gmail.svg"/>
+<a href="mailto:amir.mahboob2021@vitbhopal.ac.in">
+  <img align="left" alt="Amir Mahboob - Google Mail" width="40px" src="https://api.iconify.design/logos:google-gmail.svg"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ayon-das-23b312243/">
+<a href="www.linkedin.com/in/amir-mahboob-75b836220">
   <img align="left" alt="Ayon Das - LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
-</a>
-
-<a href="https://discord.com/channels/@me/989391239512219658">
-  <img align="left" alt="Ayon Das - Discord" width="40px" src="
-https://www.svgrepo.com/show/353655/discord-icon.svg"/>
 </a>
 
 <br></br>
